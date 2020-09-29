@@ -2,14 +2,6 @@
 
 ![](grafik/version.svg)
 
- *Ad-Soyad: Zeki Ahmet Bayar*
-
- *Öğrenci No: 030117092*
-
- *Ders Adı: Sinyal İşleme*
- 
- *Proje: MATLAB ile sentezleme*
-
 ![](muzik/nota-1.png)
 
 # Hedef 1 
